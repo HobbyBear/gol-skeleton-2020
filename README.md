@@ -42,7 +42,7 @@ The skeleton code uses SDL. This is a basic graphics library which you already u
 
 ### Submission
 
-The coursework requires two independent implementations. You will be required to submit **both** implementations (assuming both were attempted). Every student is required to upload their full work to Blackboard. There will be three sperate submissions points on Blackboard - one for the report and two for each implementation.
+The coursework requires two independent implementations. You will be required to submit **both** implementations (assuming both were attempted). Every student is required to upload their full work to Blackboard. There will be three separate submissions points on Blackboard - one for the report and two for each implementation.
 
 - For the report, you must submit a single file called `report.pdf`.
 - For the parallel implementation, you must submit a single zip file called `parallel.zip`. It must contain all the code required to compile and run the program.
