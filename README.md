@@ -29,7 +29,7 @@ To help you along, you are given a simple skeleton project. The skeleton include
 
 You **must not** modify any of the files ending in `_test.go`. We will be using these tests to judge the correctness of your implementation.
 
-The skeleton code start three goroutines. The diagram below shows how they should interact with each other (for the parallel implementation). Note that not all channels linking IO and the Distributor have been initialised for you.
+The skeleton code starts three goroutines. The diagram below shows how they should interact with each other (for the parallel implementation). Note that not all channels linking IO and the Distributor have been initialised for you.
 
 ![Goroutines](content/goroutines.png)
 
